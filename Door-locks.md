@@ -1,6 +1,8 @@
 # Door locks
 
-* [Anko.lv Brīvības iela 136 (Brīvības - Tallinas corner)](http://www.anko.lv/shop/).
+* [Henrijs @ Solo-F, Valdemara 147](sledzenes.lv).
+* Uldis @ [Anko.lv Brīvības iela 136 (Brīvības - Tallinas corner)](http://www.anko.lv/shop/).
+* Kurši.
 * [Depo Rīga, Berģi, Siguldas šos. 6](https://depo.lv/).
 
 ## What measures are required to find a lock?
@@ -19,3 +21,7 @@
 * A - 80 mm.
 * B - 45 mm.
 * C - 20 mm.
+
+## Order
+
+* Consult Henrijs in any question related with doors or locks.
