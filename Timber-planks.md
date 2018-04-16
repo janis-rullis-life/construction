@@ -4,6 +4,9 @@
 * Depo.
 * Kurši.
 
+# Wide, unprocessed planks
+* Wood style, jugla. For exqmple, 250x20x3000 pine, oak (4x more expensive than the pine). 
+
 ## 25mm
 
 * Kurši.
